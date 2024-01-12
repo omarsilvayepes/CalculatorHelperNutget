@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Description>Basic Calculator for Add, Substract , multiply , and Divide two integers</Description>
+    <Version>1.0.3</Version>
+    <Authors>OmarSilvaYepes</Authors>
+  </PropertyGroup>
+
+</Project>

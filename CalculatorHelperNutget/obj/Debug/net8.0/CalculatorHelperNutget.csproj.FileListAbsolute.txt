@@ -1,0 +1,11 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\bin\Debug\net8.0\CalculatorHelperNutget.deps.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\bin\Debug\net8.0\CalculatorHelperNutget.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\bin\Debug\net8.0\CalculatorHelperNutget.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\CalculatorHelperNutget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\CalculatorHelperNutget.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\CalculatorHelperNutget.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\CalculatorHelperNutget.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\CalculatorHelperNutget.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\refint\CalculatorHelperNutget.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\CalculatorHelperNutget.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\CalculatorHelperNutget\CalculatorHelperNutget\obj\Debug\net8.0\ref\CalculatorHelperNutget.dll
